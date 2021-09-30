@@ -1,4 +1,4 @@
-# Estructuras_Lineales
+# Estructura de Datos
 
 package javaapplication1;
 
